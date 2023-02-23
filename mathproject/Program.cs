@@ -92,7 +92,7 @@ while (true)
         break;
     }
 }
-
+Console.WriteLine();
 //ВЫВОД МАТРИЦЫ
 for (int i = 0; i <= 5; i++)
 {
